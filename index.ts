@@ -1,5 +1,5 @@
 import { Application, Router } from "https://deno.land/x/oak/mod.ts";
-import { moment } from "https://deno.land/x/moment/moment.ts";
+import { moment } from "https://deno.land/x/deno_ts_moment/mod.ts";
 
 const router = new Router();
 router
